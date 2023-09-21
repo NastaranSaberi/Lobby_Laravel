@@ -1,0 +1,20 @@
+body{
+    background-color: darkgray;
+    direction: rtl;
+}
+
+#btn_new_messages{
+    position: fixed;
+    bottom: 100px;
+    right: 100px;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+  
+
+} 
+
+.btn_img{
+    width: 10px;
+    height: 10px;
+}
